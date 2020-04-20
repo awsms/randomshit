@@ -1,0 +1,1 @@
+/home/ash/.config/fish/completions/ngp.fish
